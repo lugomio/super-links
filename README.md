@@ -27,4 +27,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar 
 
 ## Licença
 
-Esse projeto está licenciado sob a [MIT License](LICENSE).
+Esse projeto está licenciado sob a [MIT License](LICENSE.md).
